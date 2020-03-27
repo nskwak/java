@@ -1,0 +1,2 @@
+javac abcd.java
+java abcd.class
